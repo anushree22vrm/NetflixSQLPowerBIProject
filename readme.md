@@ -10,4 +10,4 @@ Power BI is then leveraged to create visualizations from the processed data.
 
 ## Project Demo
 
-![Project Demo](project_Demo.jpeg)
+![Project Demo](project_demo.jpeg)
